@@ -13,4 +13,4 @@ Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon appr
 - Dictionnaire
 
 #### Mini-projet:
-Gestionnaire d'informations personnelles 
+[Gestionnaire d'informations personnelles](Mois_01/Semaine_1/Gestionnaire.py)
