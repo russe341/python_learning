@@ -1,15 +1,16 @@
-# python_learning
+# Python_learning
 
-Ce dépôt contient mes mini-projets python réalisé dans le cadre de mon apprentissage.
+Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon apprentissage.
 
 ## Mois_01
 
 ### Semaine_01
 
-Compétences travaillé:
--Variables
--Liste
--Tuple
--Dictionnaire
+#### Compétences travaillées:
+- Variables
+- Listes
+- Tuple
+- Dictionnaire
 
-Mini-projet: gestionnaire d'information personnelle 
+#### Mini-projet:
+Gestionnaire d'informations personnelles 
