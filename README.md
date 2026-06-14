@@ -33,9 +33,9 @@ Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon appr
 - 1) Consulter votre solde
 - 2) Déposer de l'argent 
 - 3) Retirer de l'argent
-- Dans l'options 2 et 3 un montant lui sera demander
+- Dans l'options 2 et 3 un montant lui sera demandé
 
-##### Détails sur le convertisseur de devises
+##### Détails sur le convertisseur de devises:
 - Un champ demande a l'utilisateur de choisir la devises de son choix 
 - Puis un champ récupérant le montant sera afficher lui demandant d'entré le montant
 - La chaine de caractère entrer sera vérifier si c'est un nombre ensuite 
