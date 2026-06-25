@@ -47,13 +47,17 @@ Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon appr
 ### Semaine_3
 
 #### Compétences travaillées:
-- Fontions
-- Avec paramètre
+- Fonctions
+- paramètres
+- Boucles
+- Simulation de scan réseau
 
 #### Mini-projet:
 [scanneur.py](Mois_01/Semaine_3/scanneur.py)
 
 ##### Détails sur le scanneur:
-- Le programme teste plusieurs générer par range
-- Si dernier octet ip est dans la liste défini il est afficher comme active
-- Pour chaque ip active le programme scanne les port en suivant la liste de port prédefini
+- Le programme génère plusieurs adresse ip à l'aide de range()
+- Chaque ip est analysé pour vérifier si la machine est active
+- Si le dernier octet de l'adresse ip appartient à une liste prédéfinie la machine est considérée comme active
+- Pour chaque machine active, le programme scanne une liste de port prédéfinie
+- Les ports 22, 80 et 443 sont simulés comme ouvert
