@@ -4,7 +4,7 @@ Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon appr
 
 ## Mois_01
 
-### Semaine_01
+### Semaine_1
 
 #### Compétences travaillées:
 - Variables
@@ -16,10 +16,13 @@ Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon appr
 [Gestionnaire d'informations personnelles](Mois_01/Semaine_1/Gestionnaire.py)
 
 
-### Semaine_02
+### Semaine_2
 
 #### Compétences travaillées:
 - Conditions
+- for
+- while
+- range
 
 #### Mini-projet:
 [Gestionnaire_compte_bancaire](Mois_01/Semaine_2/Gestionnaire_compte_bancaire)
@@ -38,5 +41,19 @@ Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon appr
 ##### Détails sur le convertisseur de devises:
 - Un champ demande a l'utilisateur de choisir la devises de son choix 
 - Puis un champ récupérant le montant sera afficher lui demandant d'entré le montant
-- La chaine de caractère entrer sera vérifier si c'est un nombre ensuite 
+- La chaine de caractère entrer sera vérifier si c'est un nombre sinon
 - Il sera transformer en nombre entier
+
+### Semaine_3
+
+#### Compétences travaillées:
+- Fontions
+- Avec paramètre
+
+#### Mini-projet:
+[scanneur.py](Mois_01/Semaine_3/scanneur.py)
+
+##### Détails sur le scanneur:
+- Le programme teste plusieurs générer par range
+- Si dernier octet ip est dans la liste défini il est afficher comme active
+- Pour chaque ip active le programme scanne les port en suivant la liste de port prédefini
