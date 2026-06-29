@@ -1,6 +1,6 @@
 # Python_learning
 
-Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon apprentissage.
+Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon apprentissage du language de programmation python.
 
 ## Mois_01
 
@@ -61,3 +61,39 @@ Ce dépôt contient mes mini-projets python réalisés dans le cadre de mon appr
 - Si le dernier octet de l'adresse ip appartient à une liste prédéfinie la machine est considérée comme active
 - Pour chaque machine active, le programme scanne une liste de port prédéfinie
 - Les ports 22, 80 et 443 sont simulés comme ouvert
+
+### Semaine_4
+
+#### Compétences travaillées:
+- Fonctions
+- Dictionnaires imbriqué
+- Conditions
+- Boucles
+
+#### Mini-projet:
+[g_i_informatique.py](/Mois_01/Semaine_4/g_i_informatique.py)
+
+##### Détails sur le gestionnaire d'inventaire informatique:
+- Le programme affiche un menu contenant les fonctionnalités qu'il prend en compte
+- Ajouter équipement
+- Consulter équipement
+- Modifier état
+- Afficher tout
+- Un champ récuperant la saisie de l'utilisateur sera afficher lui demandant de choisir une option
+- En fonction du choisir de l'utilisateur un resultat lui sera donner
+- Chaque action mener par l'utilisateur restera enregistrer jusqu'a ce qu'il quitte le programme
+
+
+## Projet mensuel:
+[soc_monitoring_tool](/Mois_01/Projet_mensuel/soc_monitoring_tool.py)
+
+##### Détails sur le soc_monitoring_tool:
+- Une page de presentation est afficher accompagner du premier menu
+- Puis un champ de récuperation est afficher demandant a l'utilisateur de choisir une option entre se conncter ou quitter le programme
+- Après authentification de l'utilisateur un deuxième menu est afficher contenant les différentes fonctionnalités du programme
+- Simule scan réseau
+- Simule scan ports
+- Simule lecture de log
+- Simule statistique
+- Simule Alerte
+- Un champ de récuperation sera disponible demandant à l'utilisateur de choisir une option selon son besoin
